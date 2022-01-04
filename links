@@ -2,6 +2,7 @@
 https://nginx.org/en/docs/beginners_guide.html
 
 => mTLS
+https://www.youtube.com/watch?v=fpQ_nPlkmDc&ab_channel=MarcusRodrigues
 https://wott.io/blog/tutorials/2019/07/15/mtls-with-nginx
 https://ichi.pro/pt/mtls-com-nginx-e-nodejs-250485043812688
 https://dev.to/darshitpp/how-to-implement-two-way-ssl-with-nginx-2g39
@@ -16,12 +17,19 @@ https://gist.github.com/mayorova/d7861790ce6957f2b0155ed7a7601498
 https://documentation.observeit.com/installation_guide/mtls_defining_nginx_as_lb.htm
 
 https://smallstep.com/hello-mtls/doc/server/nginx
+https://cloud.google.com/dialogflow/es/docs/fulfillment-mtls
+https://codeburst.io/mutual-tls-authentication-mtls-de-mystified-11fa2a52e9cf
+
+=> mTLS + gerencianet
+https://dev.gerencianet.com.br/docs/api-pix-endpoints#section-entendendo-o-padr-o-mtls
 
 => NGINX + Node + mTLS + node
 https://smallstep.com/hello-mtls/doc/combined/nginx/nodejs
+https://cloud.google.com/dialogflow/cx/docs/concept/mtls
 
 => NGINX + Node + mTLS + curl
 https://smallstep.com/hello-mtls/doc/combined/nginx/curl
+https://downey.io/notes/dev/curl-using-mutual-tls/
 
 => NGINX + Node + mTLS + axios
 https://smallstep.com/hello-mtls/doc/combined/nginx/axios
