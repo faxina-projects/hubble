@@ -1,0 +1,2 @@
+curl https://localhost
+curl https://localhost --cacert ca.crt --key client.key --cert client.crt
