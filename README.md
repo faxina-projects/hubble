@@ -28,6 +28,12 @@ $ git clone https://github.com/faxina-projects/hubble.git
 $ cd hubble
 ```
 
+- Generate certificates
+
+```bash
+$ sh ./certs/generate.sh
+```
+
 - Build da imagem e criação do container
 
 ```bash
